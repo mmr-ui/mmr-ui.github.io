@@ -1,0 +1,12 @@
+<header>
+  <div class="logo-container">
+    <img src="assets/img/mmr-logo.png">
+  </div>
+  <nav class="nav-main">
+    <div class="container clearfix">
+      {% for item in site.data.nav %}
+        <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title | escape }}</a>
+      {% endfor %}
+    </div>
+  </nav>
+</header>
