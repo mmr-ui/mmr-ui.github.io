@@ -114,11 +114,16 @@ Navigation
 .center {
     text-align: center;
 }
-
+.green {
+    background-color: #E3F3E8;
+}
 .home-intro {
     max-width: 600px;
     margin: 0 auto;
     padding: 3rem;
+}
+.home-news {
+    margin-top: 2em;
 }
 .hero img {
     max-width: 100%;
