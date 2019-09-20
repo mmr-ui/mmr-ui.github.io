@@ -2,7 +2,7 @@
 title: About
 permalink: "/about/"
 position: 1
-image: "/assets/img/home/"
+image: "/assets/img/hero.jpg"
 layout: page
 ---
 
