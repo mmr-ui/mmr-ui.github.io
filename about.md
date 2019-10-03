@@ -3,10 +3,9 @@ title: About
 permalink: "/about/"
 position: 1
 image: assets/img/hero-1.png
+intro: 'Myanmar Railways is the authority for railways in Myanmar. '
 layout: page
 ---
-
-Myanmar Railways is the authority for railways in Myanmar. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turpis nunc eget lorem dolor sed. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Et malesuada fames ac turpis egestas integer eget. Ultricies tristique nulla aliquet enim tortor. Neque volutpat ac tincidunt vitae semper. Cursus risus at ultrices mi tempus. Feugiat sed lectus vestibulum mattis ullamcorper velit sed. Faucibus purus in massa tempor nec feugiat. Vulputate eu scelerisque felis imperdiet.
 
