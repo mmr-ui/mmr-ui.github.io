@@ -11,9 +11,24 @@ keyfacts:
   description: Extra kilometres of track to be added to connect Myeik, Kyaingtong,
     and Sittwe to the network
 focus-areas:
-  Key: 
+- title: Our Rail Network
   image: 
-  links: 
+  list: |-
+    * one
+    * two
+    * three
+- title: History of Myanmar Railways
+  image: 
+  list: |-
+    * one
+    * two
+    * three
+- title: Information for Tourists
+  image: 
+  list: |-
+    * one
+    * two
+    * three
 layout: home
 ---
 
