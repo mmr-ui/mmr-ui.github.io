@@ -10,7 +10,7 @@ keyfacts:
 - number: '3,645'
   description: Extra kilometres of track to be added to connect Myeik, Kyaingtong,
     and Sittwe to the network
-focus-areas:
+focus:
 - title: Our Rail Network
   image: "/assets/img/home/our-rail-network-400-320.jpg"
   list: |-
