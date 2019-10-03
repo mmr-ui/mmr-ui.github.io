@@ -1,0 +1,36 @@
+<div class="home-news">
+    <div class="container">
+        <div class="row">
+            <div class="column-1-2">
+                <h3>Latest News</h3>
+                {% for post in site.posts %}
+                <div class="news-item">
+                    <div class="news-image">
+                        <img src="{{ post.blog-image | relative_url }}">
+                    </div>
+                    <div class="news-text">
+                        <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+                        <p>{{ post.extract }}</p>
+                    </div>
+                </div>
+                {% endfor %}
+                <a class="button" href="#">
+                        More news
+                </a>
+            </div>
+            <div class="column-1-2">
+                <h3>Key Facts</h3>
+                <div class="row">
+                      {% for item in page.keyfacts %}
+                    <div class="column-1-2">
+                        <span class="key-fact">{{ item.number }}</span>
+                    </div>
+                    <div class="column-1-2">
+                        <p>{{ item.description }}</p>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div> 
+</div>
