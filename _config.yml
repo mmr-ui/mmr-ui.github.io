@@ -2,9 +2,9 @@
 title: Myanmar Railways
 timezone: UTC
 collections:
-  homepage-article:
+  homepage-articles:
     title: Homepage Articles
-    output: false
+    output: true
   posts:
     title: Posts
     output: true
