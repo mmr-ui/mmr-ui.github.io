@@ -12,19 +12,19 @@ keyfacts:
     and Sittwe to the network
 focus-areas:
 - title: Our Rail Network
-  image: 
+  image: "/assets/img/home/our-rail-network-400-320.jpg"
   list: |-
     * one
     * two
     * three
 - title: History of Myanmar Railways
-  image: 
+  image: " /assets/img/home/history-myanmar-rail-400-320.jpg"
   list: |-
     * one
     * two
     * three
 - title: Information for Tourists
-  image: 
+  image: "/assets/img/home/tourist-info-400-320.jpg"
   list: |-
     * one
     * two
