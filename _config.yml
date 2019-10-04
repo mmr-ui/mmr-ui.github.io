@@ -6,7 +6,7 @@ collections:
     title: Homepage Articles
     output: true
   posts:
-    title: Posts
+    title: News
     output: true
   uploads:
     title: Uploads
