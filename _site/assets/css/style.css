@@ -22,6 +22,9 @@ h1,h2,h3 {
     font-weight: 700;
     text-transform: uppercase;
 }
+h1,h2,h3,h4 {
+    margin-top: 0;
+}
 .clearfix:before,
 .clearfix:after {
   display: table;
@@ -149,12 +152,18 @@ Navigation
 }
 .news-item {
     display: block;
+    clear: left;
+    padding-bottom: 24px;
+    min-height: 150px;
 }
 .news-text {
-    padding: 12px;
+    padding: 0 12px 12px 12px;
     display: inline-block;
+    max-width: 70%;
+    float: left;
 }
 .news-image {
     max-width: 30%;
     display: inline-block;
+    float: left;
 }
