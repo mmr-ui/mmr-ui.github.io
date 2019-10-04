@@ -10,26 +10,7 @@ keyfacts:
 - number: '3,645'
   description: Extra kilometres of track to be added to connect Myeik, Kyaingtong,
     and Sittwe to the network
-focus:
-- title: Our Rail Network
-  image: "/assets/img/home/our-rail-network-400-320.jpg"
-  list: |-
-    * one
-    * two
-    * three
-- title: History of Myanmar Railways
-  image: " /assets/img/home/history-myanmar-rail-400-320.jpg"
-  list: |-
-    * one
-    * two
-    * three
-- title: Information for Tourists
-  image: "/assets/img/home/tourist-info-400-320.jpg"
-  list: |-
-    * one
-    * two
-    * three
 layout: home
 ---
 
-This is some edited text. 
+Myanmar Railways is the authority for railway infrastructure and travel in Myanmar. Welcome!
